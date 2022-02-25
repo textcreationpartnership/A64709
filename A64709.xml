@@ -1,0 +1,473 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unfortunate Phaeton, or, The fall of ambition an heroick poem / written by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64709</idno>
+            <idno type="STC">Wing U58</idno>
+            <idno type="STC">ESTC R7527</idno>
+            <idno type="EEBO-CITATION">13100910</idno>
+            <idno type="OCLC">ocm 13100910</idno>
+            <idno type="VID">97411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unfortunate Phaeton, or, The fall of ambition an heroick poem / written by a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Norris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First ed. Cf. NUC pre-1956.</note>
+                  <note>"Licensed, January the 29th, 1685. R.P."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97411:1"/>
+            <pb facs="tcp:97411:1" rendition="simple:additions"/>
+            <p>The Unfortunate PHAETON, Or the Fall of AMBITION, An HEROICK POEM.</p>
+            <p>Written by a Perſon of <hi>Quality.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed</p>
+                        <closer>
+                           <dateline>
+                              <date>January the 29th. 1685.</date>
+                           </dateline>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. Norris,</hi> and are to be Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:97411:2"/>
+            <pb n="3" facs="tcp:97411:2"/>
+            <head>The Unfortunate PHAETON, Or the Fall of AMBITION, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>THE Storm that Toſt the yielding Waves alay'd,</l>
+               <l>And Calmneſs o're the Face of Nature ſpread;</l>
+               <l>With all the Charms of Peace I courted Reſt,</l>
+               <l>Till kinder Fate had lodg'd it in my Breaſt;</l>
+               <l>Which made me ſtand as Shipwrack'd Saylors do,</l>
+               <l>On ſafeties Rock, and Conquer'd dangers view:</l>
+               <l>Revolving all degrees of thought that move</l>
+               <l>In Mortal minds, compos'd of fear and love:</l>
+               <l>Whilſt wakeful Fancy, that no ſlumber knows</l>
+               <l>Unnumber'd things in their <hi>Idea</hi> ſhows;</l>
+               <l>Some bright, ſome dark, ſome leſs than others far,</l>
+               <l>As Shrubs to Cloud-invadeing Ceders are,</l>
+               <l>Or as the Globe to the firſt moveing Star.</l>
+               <l>
+                  <pb n="4" facs="tcp:97411:3"/>
+Some ſeeming Pomp adorn'd, and ſome were meek</l>
+               <l>As <hi>Pilgrims,</hi> that Eternal Manſions ſeek.</l>
+               <l>Amongſt the reſt, and foremoſt of the Train,</l>
+               <l>
+                  <hi>Ambition</hi> ſtood, both Men and Angels Baen,</l>
+               <l>The great diſturber of the World, yet ſtood</l>
+               <l>The courted ſhaddow of a real good;</l>
+               <l>
+                  <hi>Deluſion</hi> deck't him out to that degree,</l>
+               <l>He Seem'd the Counterfeit of <hi>Royalty:</hi>
+               </l>
+               <l>An Aire of Greatneſs gain'd the firſt ſurprize,</l>
+               <l>And ſhort live'd favours darted from his Eyes,</l>
+               <l>
+                  <hi>Vain Glory</hi> and <hi>Falſe Hope</hi> around him flew,</l>
+               <l>And <hi>Real Honour</hi> ſtood aloft in view;</l>
+               <l>But betwixt him and it by th' ſmalleſt Thread,</l>
+               <l>A fatal Sword hung trembling o're his Head,</l>
+               <l>And all his way with mighty <hi>Ruin</hi> ſpread;</l>
+               <l>Trophies of ſad misfortunes on each Hand,</l>
+               <l>Proclaim'd his Pajeant Glories cou'd not ſtand;</l>
+               <l>This made me wonder how Mankind cou'd be</l>
+               <l>Beſoted into ſuch Credulity;</l>
+               <l>How ſuch Alurements cou'd Intice the Great,</l>
+               <l>To caſt themſelves into the Arms of Fate,</l>
+               <l>And it's decrees ſeek to Anticipate.</l>
+               <l>
+                  <pb n="5" facs="tcp:97411:3"/>
+As when a <hi>Vulter</hi> greedy of his Prey,</l>
+               <l>A ſleeping <hi>Serpent</hi> ſtrives to ſteal away,</l>
+               <l>But in that raſh ſurprize he finds his own,</l>
+               <l>And by the waking <hi>Serpent</hi> is undone.</l>
+               <l>'Tis ſtrange that Man ſhou'd in ſuch folly fall,</l>
+               <l>Who is ſo proud of being Rational,</l>
+               <l>To Court a thing, which like <hi>Circean</hi> Charms,</l>
+               <l>The Reaſon into Monſtrous ſhapes transforms,</l>
+               <l>To ſeek with toil, what no content can yeild,</l>
+               <l>A Luſcious Poiſon that has numbers kill'd.</l>
+               <l>What <hi>Marriner</hi> that Rides on Ruffl'd Waves,</l>
+               <l>Wou'd chooſe to Sail where Barking <hi>Sylla</hi> Raves?</l>
+               <l>Or on <hi>Charibidis</hi> dreadful Shoals wou'd ſtand,</l>
+               <l>Where ſcatter'd Ship-wracks ſpread the Bloody Sand,</l>
+               <l>When he on <hi>Halcion</hi> Seas might make his way,</l>
+               <l>Yet thus does he, <hi>Ambition</hi> leads Aſtray;</l>
+               <l>A Slave he's at that grand Deſtroyers will,</l>
+               <l>And what he bids him do, he muſt fulfill.</l>
+               <l>As when a head-ſtrong Horſe has got the Rein,</l>
+               <l>The Riders rule is loſt, he ſtorms in vain,</l>
+               <l>
+                  <pb n="6" facs="tcp:97411:4"/>
+In vain he ſtrives, the Creature won't obey,</l>
+               <l>But his at that time is his Horſes way,</l>
+               <l>As <hi>Phaetons</hi> was, that needs wou'd Guide the day:</l>
+               <l>The Young Man thought it was no more then Ride,</l>
+               <l>The Glory baſl'd all his thoughts beſide:</l>
+               <l>Paternal care and tenderneſs in vain</l>
+               <l>His mad Carreir endeavour'd to reſtrain;</l>
+               <l>Hot on his bold reſolves to mount a Throne,</l>
+               <l>All Honours elſe to him but dimly Shone;</l>
+               <l>But what inſu'd? A mighty Ruin: Why,</l>
+               <l>If Tales by true, he burnt the Earth and Skie,</l>
+               <l>His blazing <hi>Team</hi> too fiercly lead him on,</l>
+               <l>Till in that Miſchief he was over-thrown:</l>
+               <l>The forked <hi>Thunder</hi> met him in his way,</l>
+               <l>And put a ſtop to the <hi>
+                     <g ref="char:V">Ʋ</g>ſerpers</hi> ſway:</l>
+               <l>Whilſt from his burning Chaire of State he's hurl'd,</l>
+               <l>A Blazing Commet to the Lower World:</l>
+               <l>The Loud-mouth'd Thunder bid the Ruin ceaſe,</l>
+               <l>And in <hi>Ambitions</hi> fall gave Nature peace.</l>
+               <l>So we of late, beheld the Mad-brain'd Crew,</l>
+               <l>Their hapleſs <hi>Phaeton</hi> by their Breath undoo:</l>
+               <l>
+                  <pb n="7" facs="tcp:97411:4"/>
+                  <hi>Ambitions</hi> Poiſon Wing'd with fond Aplauſe,</l>
+               <l>The Head-ſtrong Youth to certain Ruin draws:</l>
+               <l>A forfeit life reſtor'd, or favours great,</l>
+               <l>Such as upon the Smiles of <hi>Monarcks</hi> wait,</l>
+               <l>Had not the power to ſtay him from his fate.</l>
+               <l>How blind is Man, that ſucks this Poiſon in,</l>
+               <l>'Tis ſuch a Vice, ſo dear a Darling Sin,</l>
+               <l>That Reaſon's forc'd to give the <hi>Monſter</hi> way,</l>
+               <l>And ſuffer under it's <hi>Tyranick</hi> ſway;</l>
+               <l>'Twas that made <hi>Caeſar</hi> and great <hi>Pompy</hi> Jar,</l>
+               <l>Who ſcatter'd all the World with <hi>Civil War,</hi>
+               </l>
+               <l>And on <hi>Aemathean Plains</hi> Writ large in Blood,</l>
+               <l>That in <hi>Ambition</hi> there can be no good:</l>
+               <l>'Tis that which wounds the Soul and lets out Reſt,</l>
+               <l>Raiſing a <hi>Civil War</hi> within the Breaſt,</l>
+               <l>And hurries all the Faculties about</l>
+               <l>In ſuch Confuſion, as when Troops in Rout</l>
+               <l>Are ſcatter'd by the fierce purſuing Foe,</l>
+               <l>Who fleſh'd with Slaughter can no pitty ſhow;</l>
+               <l>Or as a Sea provok'd by Fighting Winds,</l>
+               <l>In Waves Tumultuous all her Water finds.</l>
+               <l>
+                  <pb n="8" facs="tcp:97411:5"/>
+Yet with this Madneſs ſome were wonderous pleas'd,</l>
+               <l>They powerful Cordials ſcorn'd that wou'd have eas'd,</l>
+               <l>And glori'd With ſuch Phrenzie to be ſeiz'd.</l>
+               <l>So a poor <hi>Lunatick</hi> of ſenſe bereft,</l>
+               <l>Knows not in what a ſad Eſtate he's left,</l>
+               <l>And one thing in that great diſtreſs may be</l>
+               <l>A Comfort, cauſe he knows not's Miſery;</l>
+               <l>But in his hot-brain'd Fits himſelf deceives</l>
+               <l>With thoughts of greatneſs, which he then believes</l>
+               <l>Stands in his way, and that he has Command</l>
+               <l>As ſome great Monarch, over Sea and Land:</l>
+               <l>Thus Airey Pride the Mad-men do Purſue,</l>
+               <l>And theſe ar'th'Dreams of the <hi>Ambitious</hi> too.</l>
+               <l>The Man that makes his Gold his God, we hate,</l>
+               <l>Or he that Kills his Neighbour for's Eſtate:</l>
+               <l>The Crafty underminer Men abhor,</l>
+               <l>And Wounds in Peace, are worſe than Wounds in War;</l>
+               <l>Yet Soul-deſtroying <hi>Averice, Cruelty,</hi>
+               </l>
+               <l>
+                  <hi>Fraud, Mallice,</hi> all in <hi>Black Ambition</hi> ly:</l>
+               <l>As in <hi>Rebellions Hydra</hi> late appear'd,</l>
+               <l>An <hi>Hydra</hi> which it's Heads but faintly rear'd;</l>
+               <l>
+                  <pb n="9" facs="tcp:97411:5"/>
+Yet different ways to Miſchief they inclin'd,</l>
+               <l>And ſtuddy'd Ruin allways to Man-kind.</l>
+               <l>
+                  <hi>Aſpireing Thoughts,</hi> and hope of <hi>Gain</hi> were there,</l>
+               <l>
+                  <hi>Rapin</hi> and <hi>Burning Luſt</hi> durſt claim a ſhare,</l>
+               <l>And Impious <hi>Sacrelidge</hi> with horrid hands,</l>
+               <l>Which <hi>Indians</hi> dread, and <hi>Africks</hi> ſwarthy bands:</l>
+               <l>A thing the wild <hi>Arabians</hi> allways fly,</l>
+               <l>And all the World that owns a <hi>Deity.</hi>
+               </l>
+               <l>There, ſweet Revenge was cloſely hugg'd, and all</l>
+               <l>We can the Spawn of <hi>Damn'd Ambition</hi> call:</l>
+               <l>Nay more, A challenge up to Heav'n was ſent,</l>
+               <l>As if they Gyant-like to ſtorm it meant;</l>
+               <l>A Chalenge or bold Claim, ſuch as cou'd ne'r</l>
+               <l>Without Revenge pierce the Almighties Ear,</l>
+               <l>A bold Preſumption, in ſo bad a Cauſe,</l>
+               <l>In Derogation to his Sacred Laws.</l>
+               <l>His Anger ſlept not, when their Wiſh was heard,</l>
+               <l>But in their Ruin, he his Juſtice clear'd;</l>
+               <l>He, unto whom all darkneſs is as day,</l>
+               <l>Whoſe Eyes abſtruſeſt things with eaſe ſurvey,</l>
+               <l>Obſerv'd thoſe Men, who durſt have lay'd the Guilt</l>
+               <l>
+                  <pb n="10" facs="tcp:97411:6"/>
+Of Blood, Ingloriouſly, they wou'd have ſpilt,</l>
+               <l>To Heavens charge, and through the diſmal Gloom,</l>
+               <l>Kind Providence diſcover'd things to come,</l>
+               <l>The wakeful <hi>Genius</hi> of the Nations gave</l>
+               <l>A timely notice to the bold and brave,</l>
+               <l>And over-ſet the Fate that ſeem'd to Low'r,</l>
+               <l>By blaſting quite <hi>Ambitions</hi> feeble Pow'r.</l>
+               <l>Scarce had the <hi>Fallen Sun</hi> declyn'd the <hi>Weſt,</hi>
+               </l>
+               <l>Scarce <hi>India</hi> view'd it's Glory in the <hi>Eaſt,</hi>
+               </l>
+               <l>And we Impatient, waited it's upriſe,</l>
+               <l>To Deck with <hi>Infant Beams</hi> the darkned Skies.</l>
+               <l>No Silver Moon ſhot <hi>Pale Beams</hi> into Night,</l>
+               <l>Whoſe Luſtur by the Shade was Vanquiſht quite,</l>
+               <l>But dimly ſhin'd the ſcatter'd <hi>Seeds of Light:</hi>
+               </l>
+               <l>A ſullen Silence o're the Plain was ſpread,</l>
+               <l>Each drowſy Hill appear'd to Nod it's Head,</l>
+               <l>All things were ſtill, as Natures ſelf were Dead.</l>
+               <l>When arm'd with Rage, the Mad-braind <hi>Rout</hi> came on,</l>
+               <l>Puſh'd by the forward Fates to be undone,</l>
+               <l>O'rewelm'd in ſleep, they thought the Camp to find,</l>
+               <l>And eaſie Victory poſſeſt each mind;</l>
+               <l>
+                  <pb n="11" facs="tcp:97411:6"/>
+Soft were their ſteps, as thoſe of Lovers are,</l>
+               <l>Who wou'd be ſecret, and each ſhaddow fear,</l>
+               <l>Who ſtrangely ſtartle at each Noiſe they hear,</l>
+               <l>The Mannag'd Silence promis'd them ſucceſs,</l>
+               <l>But he who ne'r Rebellious Arms wou'd bleſs,</l>
+               <l>Who ne'r cou'd be indus'd to Wink at Sin,</l>
+               <l>Let them perceive what Errour they were in.</l>
+               <l>A Thirſt of Glory conquer'd <hi>Somnus</hi> Charms,</l>
+               <l>And kept the wakeful <hi>Heroes</hi> at their Arms,</l>
+               <l>Ready to Cope, when Wars dread Front appeard,</l>
+               <l>And <hi>Ruſtick Clamour</hi> through the <hi>Gloom</hi> was heard.</l>
+               <l>All nimble in their Motion, Train'd to do</l>
+               <l>The Mighty Work, that <hi>Fame</hi> had call'd 'em to.</l>
+               <l>Eagar to Act, and fearleſs of the Foe,</l>
+               <l>They counted their aproaching March too flow.</l>
+               <l>Glad were they when they ſaw that Heav'n gave way</l>
+               <l>To their deſires, and War in proſpect lay,</l>
+               <l>Scarce for the Signal wou'd their Courage ſtay,</l>
+               <l>But ſeem'd uneaſie, till their Arms had try'd</l>
+               <l>The juſtice of their cauſe, and quel'd the Pride</l>
+               <l>Of thoſe Aſpirers, who with Gyant-might,</l>
+               <l>Thought to poſſeſs themſelves of Heav'n by Fight.</l>
+               <l>
+                  <pb n="12" facs="tcp:97411:7"/>
+And now no more than <hi>Neptunes</hi> Tribute-ſtream,</l>
+               <l>With ſilent Silver, Interpos'd between.</l>
+               <l>To Pauſe they ſtand, not but each active Hand,</l>
+               <l>Waits to give Death upon the firſt Command:</l>
+               <l>And now loud ſhouts begin the Aire to wound,</l>
+               <l>Th'Alarms beat, and all the Trumpets ſound:</l>
+               <l>The noiſe of ſhouting Soldiers, pierce the Skie,</l>
+               <l>Above the ſtormy Clouds the Clamours fly,</l>
+               <l>Whilſt Neighbouring Caverns Eccho back the ſound,</l>
+               <l>And from the Hills the mingl'd Cryes rebound.</l>
+               <l>Night vows no more, the Breathing Flame gives day,</l>
+               <l>And Wing'd with Fire, the Bolts of Thunder ſtray,</l>
+               <l>That ſcatter'd Ruin, in their Fatal way.</l>
+               <l>Whilſt on the Plains, the ſcatter'd <hi>Rebels</hi> ly,</l>
+               <l>And their late Spoiles, with dear Repentance buy,</l>
+               <l>The futal Flaſhes let them ſee their woe,</l>
+               <l>And many Deaths preſage their over-throw;</l>
+               <l>The Blood that from a thouſand Wounds was ſhed,</l>
+               <l>The Graſs diſcolour'd with a duskie Red;</l>
+               <l>Yet prompted by <hi>Diſpair,</hi> they boldly ſtood,</l>
+               <l>And <hi>Deaths</hi> large Gaps with other Lives made good,</l>
+               <l>
+                  <pb n="13" facs="tcp:97411:7"/>
+As knowing on that Caſt their ſafety lay,</l>
+               <l>That Ruin follow'd, if they loſt the day.</l>
+               <l>Nor was Young <hi>Phaeton</hi> wanting to expreſs</l>
+               <l>His utmoſt Conduct, nor in danger leſs</l>
+               <l>Expos'd himſelf, though 'gainſt the Fates, in vain</l>
+               <l>He ſtrove, for what he never muſt obtain.</l>
+               <l>Thoſe Miſſile Arms, that Untrained <hi>Ruſticks</hi> held,</l>
+               <l>Stood only Ciphers in the Bloody Field,</l>
+               <l>To give him in their Fall a full ſurvey,</l>
+               <l>In how great breadths his hapleſs Ruin lay,</l>
+               <l>To let him ſee in his too late diſtreſs,</l>
+               <l>How <hi>Black Ambition</hi> had deſtroy'd his Peace,</l>
+               <l>And how by his <hi>Diſloyalty,</hi> he ſtood</l>
+               <l>The Curſe of Ruin'd bad-men, and the Scorn o'th good,</l>
+               <l>The <hi>Rebel Horſe</hi> by this time Rang'd at large,</l>
+               <l>But found themſelves too weak to ſtand the Charge,</l>
+               <l>
+                  <hi>Pale Fear</hi> had witherd all their ſtrength, and drain'd</l>
+               <l>Them of that Vigor once in them remain'd;</l>
+               <l>As ſoon as e're ſome <hi>Wounded Horſe</hi> had thrown</l>
+               <l>Their Riders, and their Bodies Trampl'd on,</l>
+               <l>The <hi>Horſe-men</hi> left the Field, the Fight they ſhun,</l>
+               <l>Or turning Reins upon their Fellows, run.</l>
+               <l>
+                  <pb n="14" facs="tcp:97411:8"/>
+Driven they were, thus Thunder-ſtruck purſu'd,</l>
+               <l>And in a Trice quite broken and ſubdu'd:</l>
+               <l>When to the truly Loyal <hi>Heroes</hi> Aide,</l>
+               <l>With heavy pace the deep mouth'd Cannons made,</l>
+               <l>And loud in Thunder, Slaughter did proclaim,</l>
+               <l>Whilſt all the Field ſeem'd one great Camp of flame,</l>
+               <l>And Clouds of Smoak, the Bluſhing Morne o're-ſpread,</l>
+               <l>Which now began to riſe from <hi>Thetis</hi> Bed:</l>
+               <l>Loudly they ſpoke, and with outragious Rore,</l>
+               <l>The yielding Air in parts unnumber'd Tore;</l>
+               <l>Whilſt Iron Globes, that Mortal might can't ſtay,</l>
+               <l>Through o're thrown Ranks took their deſtroying way,</l>
+               <l>And mov'd with Whirl-winds-ſpeed, no Arms cou'd be</l>
+               <l>'Gainſt thoſe deſtroyers, a ſecurity.</l>
+               <l>And now the <hi>Horſe</hi> that had nought elſe to do,</l>
+               <l>Amongſt the broken Ranks like Lightning flew,</l>
+               <l>So that the War to a ſad Period drew:</l>
+               <l>For with the ſhade the <hi>Rebels</hi> leſt the Field,</l>
+               <l>Bluſhing with th' Blood of thoſe that there were kill'd;</l>
+               <l>And with their <hi>Phaeton,</hi> whom they durſt obey,</l>
+               <l>They met their Fates, though in another way.</l>
+               <l>
+                  <pb n="15" facs="tcp:97411:8"/>
+Thus great <hi>Jehovah,</hi> great Deliv'rance wrought,</l>
+               <l>And bold <hi>Ambition</hi> to Deſtruction brought;</l>
+               <l>Thus fail'd it of it's much deſired end,</l>
+               <l>In vain do Mortal men with Heav'n contend,</l>
+               <l>Improſperous are their Plots and dark Deſigns,</l>
+               <l>He Thrives not, that 'gainſt Heav'ns Decrees Combines,</l>
+               <l>But ſinks into the Arms of foul Diſgrace,</l>
+               <l>And Honours Image baſely does deface;</l>
+               <l>He Robs himſelf of Reſt, and Courts his Pain,</l>
+               <l>And ſwallows Guilded Poiſon, that's his Paine,</l>
+               <l>Of which fond Raſhneſs, men too oft complain:</l>
+               <l>Yet like the man, that in a toſſing ſtorm,</l>
+               <l>Puts up his Prayers, and vows he will reform,</l>
+               <l>Vows to forſake each Darling Vice, but when</l>
+               <l>The Winds are out of Breath, the Seas again</l>
+               <l>Aſſume their former Calmneſs, he forgets,</l>
+               <l>And little by his Obligation ſets.</l>
+               <l>So we deceive our ſelves, till we are loſt,</l>
+               <l>And ſadly know what ſuch neglect has coſt;</l>
+               <l>Unvaluable Peace wou'd men but prize,</l>
+               <l>In which for certain there no danger lies,</l>
+               <l>The World wou'd all be turn'd to Paradice,</l>
+               <l>
+                  <pb n="16" facs="tcp:97411:9"/>
+The <hi>Golden Age</hi> again wou'd be reſtor'd,</l>
+               <l>Yet Virtue more than Gold wou'd be ador'd;</l>
+               <l>But reſtleſs men this Theam can never pleaſe,</l>
+               <l>Who if they cou'd, wou'd ſcorn to live at eaſe,</l>
+               <l>But like <hi>Old Nerites,</hi> allways love to Rave,</l>
+               <l>And ne're be ſeen, but on a Toſſing-Wave,</l>
+               <l>Much like that <hi>Indian</hi> Mouſe, who to fulfill</l>
+               <l>The dire Revenge of it's Inſatiate will,</l>
+               <l>The largeſt of all Creatures loves to kill;</l>
+               <l>Though by the Fall of that unwildy Beaſt,</l>
+               <l>It ſelf to unavoided Death is preſt.</l>
+               <l>Or like the <hi>Serpent</hi> that through Fire will run,</l>
+               <l>The Antidote of Poiſons force to ſhun.</l>
+               <l>Strange theſe may ſeem, but true too oft they'r found,</l>
+               <l>And in the Soul make an Inglorious Wound.</l>
+               <l>Diſturb the frame o'th' little World, and bring</l>
+               <l>Ten thouſand miſchiefs, which they fiercely fling,</l>
+               <l>As Curſt <hi>Pandoras Box</hi> 'mongſt men was hurl'd,</l>
+               <l>Frought with thoſe Plagues that now Diſeaſe the World.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97411:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
